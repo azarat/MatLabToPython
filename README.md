@@ -21,6 +21,8 @@ To run/execute .m file via Python on Freia we need:
 #### WHAT FILE *__run_matlab_via_python.py__* DO
 It imports an library for .m files execution.
 Creates variable *__script__* with .m file content (MatLab-code) and put it to the file *__myScript.m__*
-Then it execute file *__myScript.m__*
+Then it executes file *__myScript.m__*
 
 For more detailed information about .m python execution visit official web-site of *__oct2py__* Python library.
+
+GitHub: https://github.com/azarat/MatLabToPython
